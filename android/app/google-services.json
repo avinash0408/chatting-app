@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745596352784",
+    "firebase_url": "https://hlww-chat.firebaseio.com",
+    "project_id": "hlww-chat",
+    "storage_bucket": "hlww-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745596352784:android:27e4cdb9e0e63451848d95",
+        "android_client_info": {
+          "package_name": "com.avinash.hlww_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745596352784-dq62bmdru1114dr5bsd100hojrflhuat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAS17LlKLY2Ag1ecyKtKvnGN4wmjpXVUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745596352784-dq62bmdru1114dr5bsd100hojrflhuat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
